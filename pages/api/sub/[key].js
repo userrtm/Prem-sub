@@ -6,7 +6,7 @@ export default async function handler(req, res) {
   }
 
   // PREMIUM PANEL URL
-  const target = `https://premium.lexum.sbs/sub/${encodeURIComponent(key)}`;
+  const target = `https://unknownvip.site/proxy/premium/sub/${encodeURIComponent(key)}`;
 
   try {
     const r = await fetch(target, {
