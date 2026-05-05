@@ -25,7 +25,7 @@ export default async function handler(req, res) {
     res.setHeader("profile-update-interval", "6");
 
     // İSİM
-    res.setHeader("profile-title", "Luxury");
+    res.setHeader("profile-title", "Premium UserrTM");
 
     const userInfo = r.headers.get("subscription-userinfo");
     if (userInfo) {
