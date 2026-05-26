@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for Prem-sub on 2026-05-07T10:03:31Z
+# fly.toml app configuration file generated for prem-sub on 2026-05-07T10:03:31Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'Prem-sub'
+app = 'prem-sub'
 primary_region = 'ams'
 
 [build]
